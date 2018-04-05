@@ -1,0 +1,47 @@
+<a href="#">Matricula</a> |
+
+<body id="formul">
+<form name="form1" >
+   <table width="797" border="0"      cellspacing="0" cellpadding="0">
+       <tr>
+          <td colspan="1">Formulario de Contactos</td> 
+        </tr>
+        <tr>
+            <td width="167" height="19">&nbsp;</td>
+             <td width="629">&nbsp;</td>
+         </tr>
+         <tr>
+             <td>Nombres y Apellidos</td>
+             <td>
+             <input type="text" name="txtNombres"></td>
+         </tr>
+         <tr>
+             <td>Correo Electronico</td>
+             <td>
+             <input type="text" name="txtCorreo"></td>
+          </tr>
+          <tr>
+              <td>Asunto</td>
+              <td>
+              <input type="text" name="txtAsunto></td>
+          </tr>
+          <tr>
+              <td>Adjuntar Archivo</td>
+              <td>
+                  <input type="file" name="fildAdjuntar"></td>
+           </tr>
+           <tr>
+              <td colspan="2"><p>&nbsp;
+                 </p>
+                 <p>
+                      <input type="submit" name="btEnviar" value="Enviar Mensaje">
+                      <input type="submit"         name="btLimpiar" value="Limpiar Controles">
+                   </p></td>
+                 </tr>
+               </table>
+             </form>
+             </body>
+             
+ 
+                
+            
